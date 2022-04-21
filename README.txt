@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7dd4b2f0-6602-400b-b9bf-552aad9268f0/deploy-status)](https://app.netlify.com/sites/ruankaylo/deploys)
+[![Author](https://img.shields.io/badge/Author-RuanAyram-brightgreen.svg)](https://ruankaylo.netlify.app)
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
