@@ -1178,9 +1178,9 @@
 
 		@media screen and (max-width: 480px) {
 
-			#wrapper {
+			/* #wrapper {
 				padding: 1rem;
-			}
+			} */
 
 			#bg:after {
 		    -moz-transform: scale(1.125);
